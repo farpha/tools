@@ -4,28 +4,6 @@
 
 `farpha-tools` is a collection of utilities for cybersecurity teams and CTF players, that I also personally use.
 
-## Getting Started
-
-To start using `farpha-tools`, follow these steps:
-
-1. **Clone this repository**:
-    ```bash
-    git clone https://github.com/your-username/farpha-tools.git
-    cd farpha-tools
-    ```
-
-2. **Install dependencies**:
-    ```bash
-    composer install
-    ```
-
-3. **Configure environment variables**:
-    - Create a `.env` file in the root directory.
-    - Add and configure the necessary environment variables. For example:
-    ```dotenv
-    FIND_IP_NET_TOKEN=your_api_token_here
-    ```
-
 ## Usage
 
 ### IP Lookup
